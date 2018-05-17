@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with EazyDraw for Mac ( http://www.eazydraw.com/ ) -->
+
+<svg
+    version="1.1"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns="http://www.w3.org/2000/svg"
+    width="423.89200962"
+    height="213.222727183"
+    viewBox="0, 0, 339.113607696, 170.578181747"
+    preserveAspectRatio="none"
+    id="svg2">
+   <defs
+       id="defs_FD400DCB"/>
+   <metadata
+       id="metadata7">
+      <rdf:RDF>
+         <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+            <dc:title></dc:title>
+         </cc:Work>
+      </rdf:RDF>
+   </metadata>
+   <g
+       id="layer_Paper"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1;stroke-miterlimit:10"/>
+   <g
+       id="layer_Shruthi"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1;stroke-miterlimit:10"/>
+   <g
+       id="layer_Case"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1;stroke-miterlimit:10"/>
+   <g
+       id="layer_Parts"
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1;fill-rule:nonzero;stroke-linecap:square;stroke-linejoin:miter;stroke-width:1;stroke-miterlimit:10">
+      <path
+          style="fill:none"
+          id="B726D822"
+          d="M338.316458134,153.578645687 C249.555327044,175.770222057 80.8895890343,175.384988927 0.823544754295,153.578645687 L0.823544754295,14.8794330883 C80.8895890343,-4.100044030726 249.555327044,-4.485277161726 338.316458134,14.8794330883
+L338.316458134,153.578645687"/>
+      <circle
+          style="fill:#999999;stroke:none"
+          id="1EF7DA22"
+          cx="67.7525491736"
+          cy="100.485732297"
+          r="2.834645669292"/>
+      <circle
+          style="fill:#999999;stroke:none"
+          id="2EF7DA22"
+          cx="254.378512924"
+          cy="100.485732297"
+          r="2.834645669292"/>
+   </g>
+</svg>
